@@ -12,3 +12,6 @@ xcuserdata/
 *.mobileprovision
 *.pem
 *.key
+
+# local signing values (personal; never commit)
+Config/Signing.local.xcconfig

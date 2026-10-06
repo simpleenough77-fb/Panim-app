@@ -1,0 +1,5 @@
+// Shared defaults for the Panim app target.
+// Personal signing values (your bundle identifier and Apple team) go in Config/Signing.local.xcconfig,
+// which is git-ignored. Copy Config/Signing.local.xcconfig.example to create it.
+PANIM_BUNDLE_ID = invalid.panim.poc
+#include? "Signing.local.xcconfig"

@@ -27,6 +27,7 @@
 		A10000000000000000000007 /* Panim.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Panim.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A10000000000000000000008 /* PanimTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PanimTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A10000000000000000000009 /* PanimUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PanimUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A10000000000000000000050 /* Panim.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config/Panim.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -78,6 +79,7 @@
 				A10000000000000000000004 /* Panim */,
 				A10000000000000000000005 /* PanimTests */,
 				A10000000000000000000006 /* PanimUITests */,
+				A10000000000000000000050 /* Panim.xcconfig */,
 				A10000000000000000000003 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -314,6 +316,7 @@
 		};
 		A10000000000000000000032 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A10000000000000000000050 /* Panim.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -330,7 +333,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 0.0.1;
-				PRODUCT_BUNDLE_IDENTIFIER = invalid.panim.poc;
+				PRODUCT_BUNDLE_IDENTIFIER = "$(PANIM_BUNDLE_ID)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -344,6 +347,7 @@
 		};
 		A10000000000000000000033 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A10000000000000000000050 /* Panim.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -360,7 +364,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 0.0.1;
-				PRODUCT_BUNDLE_IDENTIFIER = invalid.panim.poc;
+				PRODUCT_BUNDLE_IDENTIFIER = "$(PANIM_BUNDLE_ID)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;

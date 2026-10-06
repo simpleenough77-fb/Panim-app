@@ -1,0 +1,4 @@
+// Copy to Signing.local.xcconfig (git-ignored) and fill in your own values.
+// PANIM_BUNDLE_ID must be unique to your Apple developer team (reverse-DNS of a domain you control).
+PANIM_BUNDLE_ID = com.example.panim.poc
+DEVELOPMENT_TEAM = ABCDE12345

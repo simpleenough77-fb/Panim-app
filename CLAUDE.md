@@ -17,4 +17,4 @@ Rules
 - Verify the date with a tool before date-stamping.
 
 Commands: only those in README "Commands that have been run successfully". Add new ones only after running them.
-Open decisions: software license, contributor policy, bundle ID/signing, Android minimum SDK, first-release languages, backup stance, Jira key/CI.
+Software license: Apache-2.0 (brand assets and font excluded; see NOTICE). Open decisions: contributor policy (CONTRIBUTING.md is a minimal proposal), bundle ID/signing, Android minimum SDK, first-release languages, backup stance, Jira key/CI.
