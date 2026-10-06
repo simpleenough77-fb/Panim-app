@@ -1,0 +1,17 @@
+Panim
+Copyright 2026 Avishai Avivi and Panim contributors
+
+The Apache License 2.0 in LICENSE applies to Panim's source code and documentation
+written for this project. It does NOT license the Panim name, logo or other brand artwork,
+and it does not change the terms of third-party files bundled here:
+
+- Panim logo and brand assets (Panim/PanimIcons.xcassets, brand/): governed by the separate
+  brand permission terms in notices/ASSET-LICENSE.md. Unchanged identification/discussion
+  use is permitted; altering the logo or using it as the identity of another product needs
+  permission.
+- Atkinson Hyperlegible Next font (Panim/Resources/Fonts/Atkinson.ttf): SIL Open Font
+  License 1.1, text in Panim/Resources/Fonts/Atkinson.OFL.txt; provenance in notices/.
+  Copyright 2020-2024 The Atkinson Hyperlegible Next Project Authors.
+
+See notices/THIRD-PARTY-NOTICES.md for details, including the disclosed provenance limit
+of the original wordmark artwork.
