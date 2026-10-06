@@ -1,0 +1,14 @@
+# Xcode / macOS
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+*.xcresult
+.DS_Store
+# secrets: never commit
+.env
+.env.*
+*.p12
+*.mobileprovision
+*.pem
+*.key
