@@ -1,0 +1,1206 @@
+{
+  "schema_version": 1,
+  "name": "Panim Brand Package — reader-facing distribution edition",
+  "proposed_release": "1.0.1",
+  "review_version": "1.0.1-rc.1",
+  "date": "2026-10-05",
+  "status": "AWAITING_EDITORIAL_APPROVAL",
+  "base_release": "1.0.0",
+  "base_release_status": "APPROVED",
+  "base_manifest_sha256": "79b9177757b66c0c2a7cd8417dded8a2acf92e38a1cea4b385c0a846072422cc",
+  "approval_rule": "Only this exact editorial edition awaits approval. Original v1.0.0 approval, artwork, standards and operative permissions remain unchanged.",
+  "manifest_self_excluded": true,
+  "file_count": 238,
+  "files": [
+    {
+      "path": "ASSET-LICENSE.md",
+      "bytes": 2915,
+      "sha256": "fc94c62066a32244146e76f5dad2685beb8508675f6374a88d250d68258c79e3"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 857,
+      "sha256": "a55d345fa17b5a800ce65359d3afb2e29bf70faf15bee8d42fa42c1fad28c352"
+    },
+    {
+      "path": "EDITORIAL-CHANGES.json",
+      "bytes": 29478,
+      "sha256": "bf945f117672c50f4ba0b986d6d08b4d0800dcb95e98c78565f8250df81f8144"
+    },
+    {
+      "path": "EDITORIAL-DIFF.txt",
+      "bytes": 97777,
+      "sha256": "5a6cc61c7b0c403cc8e7db52918c84ebbb39af8ae4b524870e9182548b03989d"
+    },
+    {
+      "path": "FILE-PROVENANCE.json",
+      "bytes": 80073,
+      "sha256": "ff43c1912a0e2b763e40a4054b75f99cd630b38ec259ed8145509a44aa927c31"
+    },
+    {
+      "path": "INTEGRATION.md",
+      "bytes": 3277,
+      "sha256": "0548b6207c233f10435a8aa22a3d5855e39a223effa5003994cdd2fbf0a09d72"
+    },
+    {
+      "path": "PACKAGE-REVIEW.md",
+      "bytes": 2353,
+      "sha256": "9d373a110053016ef6f5660a985f4cb9fe7865c5a8db57d62d9f80e34ef3b5ea"
+    },
+    {
+      "path": "PANIM-BRAND-GUIDE.html",
+      "bytes": 40187,
+      "sha256": "b3a265116c8d6e74fa36d690dca95ef41b019c2192c852305ca4c145013af458"
+    },
+    {
+      "path": "PANIM-BRAND-GUIDE.md",
+      "bytes": 34003,
+      "sha256": "714ad69016643305e9aa8327d83594e7cf59bb1af20cb100f2c6792c0104f380"
+    },
+    {
+      "path": "PANIM-BRAND-GUIDE.pdf",
+      "bytes": 745695,
+      "sha256": "1359a344605c9fa682236d6a1c181eb842d5da29938c921da1bff6b503bc72a8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1833,
+      "sha256": "2ed9400fd4f3a5245be4a6538bddfb14ae847e0a06b30e81d868833a3a1a4bc5"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "bytes": 2428,
+      "sha256": "ec13e93aef32d0ab46a5da6db992a92c011be68953f406b0b17f871b32bfa0de"
+    },
+    {
+      "path": "VALIDATION.json",
+      "bytes": 3821,
+      "sha256": "4cc55a506494bac0e7052a011ffd22788f055502c4cc0e13c4884071b180c576"
+    },
+    {
+      "path": "communications/CHANNEL-SOURCES.json",
+      "bytes": 979,
+      "sha256": "348a3cb1d2fb0296f94fb45212f88766f585600dcd08e3b8cfa57810291feb0f"
+    },
+    {
+      "path": "communications/EXPORT-INSTRUCTIONS.md",
+      "bytes": 2534,
+      "sha256": "c5d3d8ae919f3d0f02ab75473efce3f7a5b8f19a1b58b8e8b71b215cf390e2c7"
+    },
+    {
+      "path": "communications/EXPORT-INVENTORY.json",
+      "bytes": 2373,
+      "sha256": "d09e7f3400c2b2aa81efb23d02e9280141a3a61d2657f34538f1621e1fcd1613"
+    },
+    {
+      "path": "communications/GUIDANCE.md",
+      "bytes": 4477,
+      "sha256": "d62e4696385067e277ea2a52d973b1dbfe80a831847669e5b4dfd15c19f67d90"
+    },
+    {
+      "path": "communications/README.md",
+      "bytes": 3101,
+      "sha256": "575a95c8ea49a20e46b1afe17719f2f01fc89dc165b4519d9a01445a2b0cd4c2"
+    },
+    {
+      "path": "communications/REQUIREMENTS-COVERAGE.md",
+      "bytes": 721,
+      "sha256": "425d07e60207ab8771b26ef194e52f55c142b796b1a923c3cb17742608a206a7"
+    },
+    {
+      "path": "communications/REVIEW.html",
+      "bytes": 17545,
+      "sha256": "0c045ca8c8f88f4946417966840cd5b7ae158eae49d7db74e7455169c0b90e4f"
+    },
+    {
+      "path": "communications/SOURCE-INPUTS.json",
+      "bytes": 1421,
+      "sha256": "6ea5c224d0ab4c1515ee569f77e93020d8e2b49735eeee6052507d10ce4a2ecd"
+    },
+    {
+      "path": "communications/assets/logo-standard.svg",
+      "bytes": 3372,
+      "sha256": "942e1dbb4c765dd54d39026ae979ea374b0edf757017488d2425ce6e94bd4ae2"
+    },
+    {
+      "path": "communications/assets/logo-white.svg",
+      "bytes": 3372,
+      "sha256": "7c85f753335234b18113804d0d29011404f165b0f79170dcb6a02d4419e12a3a"
+    },
+    {
+      "path": "communications/exports/announcement.png",
+      "bytes": 70551,
+      "sha256": "3ce4a3080121f944ac16a51cd678385a606e2e20af409331b8b83be79827e8dc"
+    },
+    {
+      "path": "communications/exports/github.png",
+      "bytes": 34916,
+      "sha256": "16410688bcd2707a3a207bd821a86a95823a5231bd9b7265c4a0e7853b6f1637"
+    },
+    {
+      "path": "communications/exports/linkedin.png",
+      "bytes": 58229,
+      "sha256": "096f64a3c13d7b99ea54845e5f3ecaeeeea52fe12d8bb11ba6dadaa463db6daa"
+    },
+    {
+      "path": "communications/exports/opengraph.png",
+      "bytes": 34170,
+      "sha256": "29e383acf9ca5f97ad7586ca2cb8f144d0e122bd41314a349830ef974ca88350"
+    },
+    {
+      "path": "communications/exports/sponsor-financial.png",
+      "bytes": 58999,
+      "sha256": "1ce85a33554136f40d0b6932c7e84ba70416aa125c19c309960d44d7ec969873"
+    },
+    {
+      "path": "communications/exports/sponsor-inkind.png",
+      "bytes": 58270,
+      "sha256": "c4d0262e1184b1713f810685eb772031d7c0f7f4d3dd0f82712d86aa6506b805"
+    },
+    {
+      "path": "communications/fonts/Atkinson.OFL.txt",
+      "bytes": 4431,
+      "sha256": "aca6a428580965d2297d1b718042dd427c2a9443ece3b0d02d758e161e0c4030"
+    },
+    {
+      "path": "communications/fonts/atkinson-latin-ext.woff2",
+      "bytes": 19076,
+      "sha256": "ca1969afa9058a41ced4a08bd54f48835cfe79dc6ccf9050dca7da85c9e0a9d9"
+    },
+    {
+      "path": "communications/fonts/atkinson-latin.woff2",
+      "bytes": 34024,
+      "sha256": "1e4cea71d75ec427581d6259fc07148a2e60d60d16cabf4b4f5360487b3f9dc3"
+    },
+    {
+      "path": "communications/proofs/OVERVIEW.png",
+      "bytes": 207508,
+      "sha256": "d1bcb5a15de9c0949ac8c283824eb74ed2fe8b139f85c01c4041f0d8132332ec"
+    },
+    {
+      "path": "communications/proofs/announcement.png",
+      "bytes": 70551,
+      "sha256": "3ce4a3080121f944ac16a51cd678385a606e2e20af409331b8b83be79827e8dc"
+    },
+    {
+      "path": "communications/proofs/github.png",
+      "bytes": 34916,
+      "sha256": "16410688bcd2707a3a207bd821a86a95823a5231bd9b7265c4a0e7853b6f1637"
+    },
+    {
+      "path": "communications/proofs/guidance.png",
+      "bytes": 257352,
+      "sha256": "c67619f2a23da424406cb63f1def79fcf070c72d447e9d31da6c1bb0f76bead3"
+    },
+    {
+      "path": "communications/proofs/linkedin.png",
+      "bytes": 58229,
+      "sha256": "096f64a3c13d7b99ea54845e5f3ecaeeeea52fe12d8bb11ba6dadaa463db6daa"
+    },
+    {
+      "path": "communications/proofs/opengraph.png",
+      "bytes": 34170,
+      "sha256": "29e383acf9ca5f97ad7586ca2cb8f144d0e122bd41314a349830ef974ca88350"
+    },
+    {
+      "path": "communications/proofs/sponsor-financial.png",
+      "bytes": 58999,
+      "sha256": "1ce85a33554136f40d0b6932c7e84ba70416aa125c19c309960d44d7ec969873"
+    },
+    {
+      "path": "communications/proofs/sponsor-inkind.png",
+      "bytes": 58270,
+      "sha256": "c4d0262e1184b1713f810685eb772031d7c0f7f4d3dd0f82712d86aa6506b805"
+    },
+    {
+      "path": "communications/source/build.cjs",
+      "bytes": 13777,
+      "sha256": "2edd13e3a16a2edd7bc76b99959bea6bc5ff65134e10788d12fef40f71455331"
+    },
+    {
+      "path": "communications/source/content.json",
+      "bytes": 3779,
+      "sha256": "0f058e994c51b998e1a3bfc1f30d4202132b48695500b64dd632bdce9a74ba54"
+    },
+    {
+      "path": "components/png/panim-symbol-navy-v0.1.0.png",
+      "bytes": 20221,
+      "sha256": "6bb6f646e4b3fd47d71fbe1cdc814193b18caa740ff41143eb4e1dec9597e7c4"
+    },
+    {
+      "path": "components/png/panim-symbol-standard-v0.1.0.png",
+      "bytes": 21501,
+      "sha256": "45695424a0420fc99703bf2090c9ff66f701823c57df2ba7e17cee76e33ca82d"
+    },
+    {
+      "path": "components/png/panim-symbol-white-v0.1.0.png",
+      "bytes": 14183,
+      "sha256": "c31e31a86cb76add4cf652b5a437fdbac1291b53d7b3c52cbc3b57289497136b"
+    },
+    {
+      "path": "components/png/panim-wordmark-navy-v0.1.0.png",
+      "bytes": 10840,
+      "sha256": "741579f0438adca43ce2017a0eb7169cd6dd157543398bf6fe8f7a674b277fd1"
+    },
+    {
+      "path": "components/png/panim-wordmark-white-v0.1.0.png",
+      "bytes": 8692,
+      "sha256": "69d99c40ae64ca136d9b99c336d2af6a3a1057996258d65df193362b792d2842"
+    },
+    {
+      "path": "components/svg/panim-symbol-navy-v0.1.0.svg",
+      "bytes": 1351,
+      "sha256": "fdbe90267cb7105a261eccba0e509c1c9dac59ad77274711225fc0bcf0cd78d9"
+    },
+    {
+      "path": "components/svg/panim-symbol-standard-v0.1.0.svg",
+      "bytes": 1351,
+      "sha256": "f55b8c55f3325db0407f7af89ffc4af3e1d47da531cf4d5d310d98cb867433f4"
+    },
+    {
+      "path": "components/svg/panim-symbol-white-v0.1.0.svg",
+      "bytes": 1351,
+      "sha256": "e4fb370a5b79f589668376b5e9f0c4e2440f6033535238e8b576b267ead3dc85"
+    },
+    {
+      "path": "components/svg/panim-wordmark-navy-v0.1.0.svg",
+      "bytes": 2030,
+      "sha256": "5f1af06f1fe0ffcced152b7e0d474092d781fca779acbdb94c7395da4014b5aa"
+    },
+    {
+      "path": "components/svg/panim-wordmark-white-v0.1.0.svg",
+      "bytes": 2030,
+      "sha256": "a8a79f615d42abd07b205a1ec96294397f7b67a20ff66c66ac438f53bbbb0c2d"
+    },
+    {
+      "path": "evidence/approval-chain/02-vector-master/APPROVAL-v0.1.0.json",
+      "bytes": 1646,
+      "sha256": "2d71f4767ce9c24f1bf4c3a3093fec642c26fe95b57bcb8a5967c4130afa80fb"
+    },
+    {
+      "path": "evidence/approval-chain/03-color-and-treatments/APPROVAL-COLOR-AND-FLAT-v0.1.0.json",
+      "bytes": 1252,
+      "sha256": "da54e063f3b8af1295d1d18b6717ac679b2e36345e81de572ef57e9183a42914"
+    },
+    {
+      "path": "evidence/approval-chain/03-color-and-treatments/APPROVAL-TREATMENTS-v0.1.0.json",
+      "bytes": 5809,
+      "sha256": "3612533dd563808d42b5ae080d5c80041151d9b585ecb94a59c1c69d89ae09c3"
+    },
+    {
+      "path": "evidence/approval-chain/04-type-and-accessibility/APPROVAL-v1.0.0.json",
+      "bytes": 6115,
+      "sha256": "7b89f33f6ea0de8c20890b85397fa6b99e0a0b41480f090dabe62f7aeb1b0d4f"
+    },
+    {
+      "path": "evidence/approval-chain/05-logo-system/APPROVAL-PROPOSAL-v0.1.0.json",
+      "bytes": 3358,
+      "sha256": "aa7a27eb83aad00ba79b4456db13df1ef9eeefada2645299b1e7749575c1bf5f"
+    },
+    {
+      "path": "evidence/approval-chain/05-logo-system/APPROVAL-v1.0.0.json",
+      "bytes": 10556,
+      "sha256": "f06f68c1c0c0f4e953a8debf7108d4ad701e3f2167573f4363c1d9f2779ff672"
+    },
+    {
+      "path": "evidence/approval-chain/06-platform-and-communications/stage-a/APPROVAL-PROPOSAL-v0.1.0.json",
+      "bytes": 1405,
+      "sha256": "8ff740f86767a6eaf81c68818cd63ce1b4b9e3cec0db368828fc47a53604d0eb"
+    },
+    {
+      "path": "evidence/approval-chain/06-platform-and-communications/stage-a/APPROVAL-v1.0.0.json",
+      "bytes": 15180,
+      "sha256": "00318393bab67dccddb4d94c25b50ce7d37dd629a75e777a885beac38f54aabe"
+    },
+    {
+      "path": "evidence/approval-chain/06-platform-and-communications/stage-b/APPROVAL-PROPOSAL-v0.1.0.json",
+      "bytes": 677,
+      "sha256": "5d06010580a1a89e498bf4eb31fb70c9a9783480e8c67c1735a229cee965f9e3"
+    },
+    {
+      "path": "evidence/approval-chain/06-platform-and-communications/stage-b/APPROVAL-v1.0.0.json",
+      "bytes": 8915,
+      "sha256": "62b33186ffd43f22989d6bf5bf5308e6d30dd5f0be449b6af095cf539463f44c"
+    },
+    {
+      "path": "evidence/handoffs/01-source-and-scope.txt",
+      "bytes": 5519,
+      "sha256": "59cce957448d5ccf1d19f024d05d9a84a49c7ddeb16d52e70cc9c7a1be3bb7df"
+    },
+    {
+      "path": "evidence/handoffs/02-vector-master.txt",
+      "bytes": 7303,
+      "sha256": "944cbe76a9ca3a257b1e2454b02d523d90183cbc0c9d1991fc55168511e8909e"
+    },
+    {
+      "path": "evidence/handoffs/03-color-and-treatments.txt",
+      "bytes": 8903,
+      "sha256": "e43b97f47e0fb5addc6b8a195d7414a18b02bc93d75cfe4cf006697fe6629e47"
+    },
+    {
+      "path": "evidence/handoffs/04-type-and-accessibility.txt",
+      "bytes": 7364,
+      "sha256": "b2c38e85c8af641951d0b85288971538aeff91270fb109528821f1a6a7c3cd1b"
+    },
+    {
+      "path": "evidence/handoffs/05-logo-system.txt",
+      "bytes": 14409,
+      "sha256": "4a212890739b01f9a876429585012706b6bf24e7211f2766a630da420c4a80cb"
+    },
+    {
+      "path": "evidence/handoffs/06-platform-and-communications.txt",
+      "bytes": 12514,
+      "sha256": "fb30abbc7978d00197ad38e07e6a5bea724e343b4d94710888b0a1eabdb8e7ab"
+    },
+    {
+      "path": "evidence/provenance/APPROVAL-v0.1.0.json",
+      "bytes": 1646,
+      "sha256": "2d71f4767ce9c24f1bf4c3a3093fec642c26fe95b57bcb8a5967c4130afa80fb"
+    },
+    {
+      "path": "evidence/provenance/DECISIONS-2026-10-05.json",
+      "bytes": 921,
+      "sha256": "4a54fc8932ff55862ef32158a53004e0d88d88c155962697e00e69febe415ba3"
+    },
+    {
+      "path": "evidence/provenance/DECISIONS.md.txt",
+      "bytes": 3827,
+      "sha256": "aec0aa155f3963712bf3cbc96e3cfb9de0df60966688b0612db4935d0b8cd1d4"
+    },
+    {
+      "path": "evidence/provenance/PANIM-BRAND-SPEC.md.txt",
+      "bytes": 11820,
+      "sha256": "99999dc49bcc0fbf7792a240efaf48a671677a55920de4927db19af6e630e4d5"
+    },
+    {
+      "path": "evidence/provenance/PROVENANCE-FINDINGS.md.txt",
+      "bytes": 4552,
+      "sha256": "caf29c86bbf3501c2cc5434bee6ce72ab81d1107a83efd6137b0cc31ae7aaf8a"
+    },
+    {
+      "path": "evidence/ws3/AESTHETIC-GUIDELINE-v1.0.md.txt",
+      "bytes": 1332,
+      "sha256": "dd8db5d6144cc21fec049b6e2b551bc255669ebe2e68fbf8b5c7a08c4418cefa"
+    },
+    {
+      "path": "evidence/ws3/APPROVAL.json",
+      "bytes": 5809,
+      "sha256": "3612533dd563808d42b5ae080d5c80041151d9b585ecb94a59c1c69d89ae09c3"
+    },
+    {
+      "path": "evidence/ws3/APPROVED-COLOR-SYSTEM-v0.1.0.md.txt",
+      "bytes": 1984,
+      "sha256": "42d0c61f77a376ae496514186164b9e061d347ad0fcc9f38084ae0059f776b80"
+    },
+    {
+      "path": "evidence/ws3/COLOR-STANDARD-v0.1.0.md.txt",
+      "bytes": 5011,
+      "sha256": "008321dd4e57cd0b745c06e37ecbc3e4f21203683787043fe30c94642f85aa01"
+    },
+    {
+      "path": "evidence/ws3/MANIFEST.original.json",
+      "bytes": 7224,
+      "sha256": "282b21ce31e3a27fabb957961aa7cad421015d07acb615a15d87256e1cbf9a49"
+    },
+    {
+      "path": "evidence/ws3/VALIDATION.json",
+      "bytes": 8525,
+      "sha256": "702b010480f1ed4e8759e8386c1be13f787d92e646995fccdde5b1f21549947d"
+    },
+    {
+      "path": "evidence/ws4/APPROVAL.json",
+      "bytes": 6115,
+      "sha256": "7b89f33f6ea0de8c20890b85397fa6b99e0a0b41480f090dabe62f7aeb1b0d4f"
+    },
+    {
+      "path": "evidence/ws4/APPROVED-TYPE-AND-UI-v1.0.0.md.txt",
+      "bytes": 1638,
+      "sha256": "c6a4b6acf48cb6cbf19c61f2905666b9eade54637e37cef7e34e70197de6d0cc"
+    },
+    {
+      "path": "evidence/ws4/MANIFEST.original.json",
+      "bytes": 4929,
+      "sha256": "6eb1dcaf7514df83c2813c7b04607f84c978238232f13cf607b1db52fb69e824"
+    },
+    {
+      "path": "evidence/ws4/README.md.txt",
+      "bytes": 1135,
+      "sha256": "0f8826a468e41f36f52bd44964039d5f9d44e665b6ef5bf2fd80051392a485de"
+    },
+    {
+      "path": "evidence/ws4/TYPOGRAPHY.md.txt",
+      "bytes": 3672,
+      "sha256": "10068ae8fb3a47d3e385a6eeed43aaf86442ca13aeac69e956d805f6f549705b"
+    },
+    {
+      "path": "evidence/ws4/UI-ACCESSIBILITY.md.txt",
+      "bytes": 7601,
+      "sha256": "dc373ae71f013dbfc573585506bce6b8a3c299b1ebbf6ff33cca81677e6f4307"
+    },
+    {
+      "path": "evidence/ws4/VALIDATION.json",
+      "bytes": 1187,
+      "sha256": "f1d5b1d8296f1257970d5ca8794dbeb1bb20a1a528e42f58ef6296063153f314"
+    },
+    {
+      "path": "evidence/ws5/APPROVAL.json",
+      "bytes": 10556,
+      "sha256": "f06f68c1c0c0f4e953a8debf7108d4ad701e3f2167573f4363c1d9f2779ff672"
+    },
+    {
+      "path": "evidence/ws5/APPROVED-LOGO-SYSTEM-v1.0.0.md.txt",
+      "bytes": 1161,
+      "sha256": "39b069f7c5423ee109358a1cf005b6f752e3557577523a27e6c271077bceccea"
+    },
+    {
+      "path": "evidence/ws5/EXPORT-INVENTORY.json",
+      "bytes": 11154,
+      "sha256": "778bd4d49b26e119b17281154a41d3851626a13690c0d91281ae9fcfd68e5bae"
+    },
+    {
+      "path": "evidence/ws5/LOGO-USAGE.md.txt",
+      "bytes": 8321,
+      "sha256": "53c254fdc90816c550168ddd4b6a957d9195b027ef663bfae6cb4155d330f2fa"
+    },
+    {
+      "path": "evidence/ws5/MANIFEST.original.json",
+      "bytes": 9563,
+      "sha256": "15c0963e4d27b70a0f498bbca8e74aadf61121b6c21d73ce24720aeb7db4f327"
+    },
+    {
+      "path": "evidence/ws5/README.md.txt",
+      "bytes": 1027,
+      "sha256": "b3f503281a66a9d16b5daa3f449c77b3d470312e5d50a782077acdb5dae6c445"
+    },
+    {
+      "path": "evidence/ws5/VALIDATION.json",
+      "bytes": 14051,
+      "sha256": "bdbef48a68a4df7d1a097ad5f2faea960f56b294a4adc6ff11394801d71da3b9"
+    },
+    {
+      "path": "evidence/ws5/build.cjs.txt",
+      "bytes": 6729,
+      "sha256": "4368d5bb1f144aec81ed66c3e74e8c5d27cd8f6a6897aff6b980f74e6df992bc"
+    },
+    {
+      "path": "evidence/ws6a/APPROVAL.json",
+      "bytes": 15180,
+      "sha256": "00318393bab67dccddb4d94c25b50ce7d37dd629a75e777a885beac38f54aabe"
+    },
+    {
+      "path": "evidence/ws6a/APPROVED-PLATFORM-AND-WEB-v1.0.0.md.txt",
+      "bytes": 2045,
+      "sha256": "b43b4206d00b6ddf47d3061833d179a91817e262b6066eea4b405d066952b285"
+    },
+    {
+      "path": "evidence/ws6a/EXPORT-INVENTORY.json",
+      "bytes": 7845,
+      "sha256": "bae653dd26ee9543208a14d336bc34fc30144380e012802234bcf5d4c571e689"
+    },
+    {
+      "path": "evidence/ws6a/MANIFEST.original.json",
+      "bytes": 14326,
+      "sha256": "618b2750a64c4b52d7e10491025e40fa01cd566e93381e141052da42b0f07df2"
+    },
+    {
+      "path": "evidence/ws6a/PLATFORM-USAGE.md.txt",
+      "bytes": 4856,
+      "sha256": "cfbad78dea781908820172017bd985fb3a09cb8a965c31822921ef22c31b17f9"
+    },
+    {
+      "path": "evidence/ws6a/README.md.txt",
+      "bytes": 3604,
+      "sha256": "5e1738a963b41692fdd65d4f9df5aaf5c065a4616e64605e75adc4d2b40e2754"
+    },
+    {
+      "path": "evidence/ws6a/SOURCE-INPUTS.json",
+      "bytes": 976,
+      "sha256": "08c20a4e551de9dd1eea37d291f376a0ce63689a94904276638b9e7c21ecdbe5"
+    },
+    {
+      "path": "evidence/ws6a/VALIDATION.json",
+      "bytes": 8081,
+      "sha256": "eb2b22b19cd5cf67ffcf9a8e1513b78d9f9f347fa9d914d7c24c5f50e63f8805"
+    },
+    {
+      "path": "evidence/ws6a/build.cjs.txt",
+      "bytes": 8857,
+      "sha256": "5564557d5990e17b32ef17d4a543b0c5b3ac7b721de16d02a66096236b58695a"
+    },
+    {
+      "path": "evidence/ws6a/check.cjs.txt",
+      "bytes": 12235,
+      "sha256": "2ff91e0c4aa9723f10478ef55d060c97d14523ffa63411bb55e4e272300c1146"
+    },
+    {
+      "path": "evidence/ws6b/APPROVAL.json",
+      "bytes": 8915,
+      "sha256": "62b33186ffd43f22989d6bf5bf5308e6d30dd5f0be449b6af095cf539463f44c"
+    },
+    {
+      "path": "evidence/ws6b/APPROVED-COMMUNICATION-TEMPLATES-v1.0.0.md.txt",
+      "bytes": 1450,
+      "sha256": "3df078b1500f77c3ae44f6e4735ca36e19ee6b898365e88ea57e2d8821dd1bd6"
+    },
+    {
+      "path": "evidence/ws6b/EXPORT-INSTRUCTIONS.md.txt",
+      "bytes": 2534,
+      "sha256": "c5d3d8ae919f3d0f02ab75473efce3f7a5b8f19a1b58b8e8b71b215cf390e2c7"
+    },
+    {
+      "path": "evidence/ws6b/EXPORT-INVENTORY.json",
+      "bytes": 2373,
+      "sha256": "d09e7f3400c2b2aa81efb23d02e9280141a3a61d2657f34538f1621e1fcd1613"
+    },
+    {
+      "path": "evidence/ws6b/GUIDANCE.md.txt",
+      "bytes": 4467,
+      "sha256": "a95b66a41fa11e2d2c2d534af7e0ea3276f2b9e932b3648f375085d21088f952"
+    },
+    {
+      "path": "evidence/ws6b/MANIFEST.original.json",
+      "bytes": 5015,
+      "sha256": "5a4dacf7ff011c158f4153ef17e7f121292287c3e5a92497e6b359955203b5d2"
+    },
+    {
+      "path": "evidence/ws6b/README.md.txt",
+      "bytes": 2777,
+      "sha256": "a96e64a2c528c263045b78f3aa8e430b739d3d54c50a2b8dafadc338080a963a"
+    },
+    {
+      "path": "evidence/ws6b/REQUIREMENTS-COVERAGE.md.txt",
+      "bytes": 2246,
+      "sha256": "e87ebd3fea034bdff05090f0474ebd8c1241ce5695e9550d2c49cb8e66ca95b4"
+    },
+    {
+      "path": "evidence/ws6b/SOURCE-INPUTS.json",
+      "bytes": 1421,
+      "sha256": "6ea5c224d0ab4c1515ee569f77e93020d8e2b49735eeee6052507d10ce4a2ecd"
+    },
+    {
+      "path": "evidence/ws6b/VALIDATION.json",
+      "bytes": 6718,
+      "sha256": "32f37b3ad9e6c6c95f19b57be8641c8e72a8b8f8003b64b6bd908f333efe8118"
+    },
+    {
+      "path": "history/README.md",
+      "bytes": 1589,
+      "sha256": "721eb51f16726224572cee432be81732da7edd8e06c58c43cc479a75962e97f8"
+    },
+    {
+      "path": "history/v1.0.0/APPROVAL-v1.0.0.json",
+      "bytes": 2296,
+      "sha256": "81452bd8c77cd38a696951a8534ecaafbb97ad8690db389225189ec6b1df86dd"
+    },
+    {
+      "path": "history/v1.0.0/APPROVED-v1.0.0.md",
+      "bytes": 2736,
+      "sha256": "9c79f98ae734c98ee9977369d2a9d4304b654c5151222f729a0908c32650fef9"
+    },
+    {
+      "path": "history/v1.0.0/Panim-Brand-v1.0.0.zip",
+      "bytes": 3175837,
+      "sha256": "0c5f7baa59d11c5a6eceeaf9a85a101eb01cf2d863664168ce02bd80f20edf43"
+    },
+    {
+      "path": "history/v1.0.0/RELEASE-v1.0.0.json",
+      "bytes": 826,
+      "sha256": "4754d1e42c043ddb047b194c766532a891b4e82120ed1789e75e1fd9f5676407"
+    },
+    {
+      "path": "history/v1.0.0/REVIEW-v1.0.0-rc.1.json",
+      "bytes": 1211,
+      "sha256": "c364209d84da93242e185d8f638c6b861f6c914b04069b4c8378d5f061e81036"
+    },
+    {
+      "path": "history/v1.0.0/documents/ASSET-LICENSE.md",
+      "bytes": 2915,
+      "sha256": "8526844127e32c0c4e411dcb68f0bafb37d0bb9c1c7066273cf217686b3c7c7d"
+    },
+    {
+      "path": "history/v1.0.0/documents/CHANGELOG.md",
+      "bytes": 583,
+      "sha256": "e06db7e2efabd615a29c7e3248267ff0a7322f90cce70efc2579585191c1679c"
+    },
+    {
+      "path": "history/v1.0.0/documents/FILE-PROVENANCE.json",
+      "bytes": 83141,
+      "sha256": "2fc18b675f9171b0aec537bf645ef986a477179a09368742a05ca2b3fc83d00f"
+    },
+    {
+      "path": "history/v1.0.0/documents/INTEGRATION.md",
+      "bytes": 3155,
+      "sha256": "f509a9ead1f5bd24e9adafb218f537e1b5dc9fc41891590b8f159839dd3bce2c"
+    },
+    {
+      "path": "history/v1.0.0/documents/MANIFEST.json",
+      "bytes": 143077,
+      "sha256": "79b9177757b66c0c2a7cd8417dded8a2acf92e38a1cea4b385c0a846072422cc"
+    },
+    {
+      "path": "history/v1.0.0/documents/PACKAGE-REVIEW.md",
+      "bytes": 2234,
+      "sha256": "600f1d25fa971822e23b505ab80aed5020e46d06d21bffea9862845e0bc47291"
+    },
+    {
+      "path": "history/v1.0.0/documents/PANIM-BRAND-GUIDE.html",
+      "bytes": 39920,
+      "sha256": "c2ded85c548a2eab21cc61ee5a68a041a123953b5a79dd311baa9bf5398b8d0f"
+    },
+    {
+      "path": "history/v1.0.0/documents/PANIM-BRAND-GUIDE.md",
+      "bytes": 33744,
+      "sha256": "28a6f58c791dc978ab348bb26aa88c7416b526397688e2a933201633b63edcda"
+    },
+    {
+      "path": "history/v1.0.0/documents/PANIM-BRAND-GUIDE.pdf",
+      "bytes": 651249,
+      "sha256": "b77f6e09b0195ffd9508c175867c34b9ff592b77bc33e0ae95913e457016337a"
+    },
+    {
+      "path": "history/v1.0.0/documents/README.md",
+      "bytes": 1602,
+      "sha256": "e336dd7224db519a0f0731a4aec5ed524d235d5824480b948f37ee2e110bf5f4"
+    },
+    {
+      "path": "history/v1.0.0/documents/THIRD-PARTY-NOTICES.md",
+      "bytes": 2428,
+      "sha256": "0bb00acb2d1d63871be85a11e499224e7dc2a082b16a533160272efa16032bd2"
+    },
+    {
+      "path": "history/v1.0.0/documents/VALIDATION.json",
+      "bytes": 30264,
+      "sha256": "db4e3e9c03f1a2606137fb2abfe48cf2903e317e473a639805bd24db1eef9f01"
+    },
+    {
+      "path": "history/v1.0.0/documents/communications/GUIDANCE.md",
+      "bytes": 4467,
+      "sha256": "a95b66a41fa11e2d2c2d534af7e0ea3276f2b9e932b3648f375085d21088f952"
+    },
+    {
+      "path": "history/v1.0.0/documents/communications/README.md",
+      "bytes": 2777,
+      "sha256": "a96e64a2c528c263045b78f3aa8e430b739d3d54c50a2b8dafadc338080a963a"
+    },
+    {
+      "path": "history/v1.0.0/documents/communications/REQUIREMENTS-COVERAGE.md",
+      "bytes": 2246,
+      "sha256": "e87ebd3fea034bdff05090f0474ebd8c1241ce5695e9550d2c49cb8e66ca95b4"
+    },
+    {
+      "path": "history/v1.0.0/documents/communications/REVIEW.html",
+      "bytes": 17450,
+      "sha256": "e272f84cad5be9298534adee09efba7f36e6fae2ddf5c9616ab33656092adbf9"
+    },
+    {
+      "path": "history/v1.0.0/documents/standards/LOGO-USAGE.md",
+      "bytes": 6141,
+      "sha256": "3727a497b827795c0ff8311c4d6a9d0939d1d1c152c4005fb4d3d33ac26493a2"
+    },
+    {
+      "path": "history/v1.0.0/documents/standards/PLATFORM-USAGE.md",
+      "bytes": 4375,
+      "sha256": "360f5458d1b9c59ce9b761356649283053c638f51e1375a086802714de4f3d97"
+    },
+    {
+      "path": "history/v1.0.0/documents/standards/TYPOGRAPHY.md",
+      "bytes": 3856,
+      "sha256": "beb593ca87ce62115d7eb4e93d8eaced6bd682e47a2758324876e2eb8caf2869"
+    },
+    {
+      "path": "history/v1.0.0/documents/standards/UI-ACCESSIBILITY.md",
+      "bytes": 7286,
+      "sha256": "6c4f25d8b202bf9012545695a6a69b492585e3b80e440306838b24c252c8daad"
+    },
+    {
+      "path": "logos/png/panim-horizontal-navy-v1.0.0-192w.png",
+      "bytes": 3148,
+      "sha256": "0c6c88393a993d003e68c3bf466feba15fb877dcb830bc2fbd88b830d47a4bf0"
+    },
+    {
+      "path": "logos/png/panim-horizontal-navy-v1.0.0-240w.png",
+      "bytes": 3906,
+      "sha256": "d3cb5ef7f2e74d8c826337712e73c4553ee2b0237578138dd65965d49161a61d"
+    },
+    {
+      "path": "logos/png/panim-horizontal-navy-v1.0.0-384w.png",
+      "bytes": 6462,
+      "sha256": "9a5867381326a33cc7cbf962f46be5a59c836c049e735c0b5551cf783f1998a7"
+    },
+    {
+      "path": "logos/png/panim-horizontal-navy-v1.0.0-480w.png",
+      "bytes": 8430,
+      "sha256": "4811124ec565129bbc459bf5b61d5376db281690412efd3033d33e42102158a8"
+    },
+    {
+      "path": "logos/png/panim-horizontal-standard-v1.0.0-192w.png",
+      "bytes": 3524,
+      "sha256": "690c0117035e65b61e8a3205084e73019d996caa5da24317814f8a0c2accea83"
+    },
+    {
+      "path": "logos/png/panim-horizontal-standard-v1.0.0-240w.png",
+      "bytes": 4397,
+      "sha256": "b3ae878e705257892ac007a8a80bdb51ae8b3f7bd12fa6f02e99abe90507c8b4"
+    },
+    {
+      "path": "logos/png/panim-horizontal-standard-v1.0.0-384w.png",
+      "bytes": 7236,
+      "sha256": "0b59f980fbf3f3dce79b537abd0ef496d71467476b22dd7a2621101d31811e36"
+    },
+    {
+      "path": "logos/png/panim-horizontal-standard-v1.0.0-480w.png",
+      "bytes": 9389,
+      "sha256": "811108dc50615a2df043eb2a44b5141c7c89ec7c9a4f6835e0223f321cc03914"
+    },
+    {
+      "path": "logos/png/panim-horizontal-white-v1.0.0-192w.png",
+      "bytes": 2544,
+      "sha256": "0975506cd5c367963f6322d21574d6012d3cb9101b2b02e763ce3792f6cca9d1"
+    },
+    {
+      "path": "logos/png/panim-horizontal-white-v1.0.0-240w.png",
+      "bytes": 3235,
+      "sha256": "08bb931804bd08cdb77cd5b718989e3c77df5c14aad42421a6f9c75cae5ad5df"
+    },
+    {
+      "path": "logos/png/panim-horizontal-white-v1.0.0-384w.png",
+      "bytes": 5263,
+      "sha256": "f2c4620210e60c774887260694ef455f091dfa25e22097c81630cbfe08d85419"
+    },
+    {
+      "path": "logos/png/panim-horizontal-white-v1.0.0-480w.png",
+      "bytes": 6866,
+      "sha256": "1f752e45c3528f6f792cbb5750de6a59f04b66a0b6efaf475dd39376a37f1ad3"
+    },
+    {
+      "path": "logos/png/panim-vertical-navy-v1.0.0-112w.png",
+      "bytes": 3705,
+      "sha256": "d4a3d3633a6e948ecaa574378f2987cff0a0bc6f4c147502f7fc52e3f0fd3c65"
+    },
+    {
+      "path": "logos/png/panim-vertical-navy-v1.0.0-140w.png",
+      "bytes": 4713,
+      "sha256": "b4406cb719e49c910ec9fe30af28f5dc25a2e335393ff57ce0ef005bf594ca5f"
+    },
+    {
+      "path": "logos/png/panim-vertical-navy-v1.0.0-224w.png",
+      "bytes": 8000,
+      "sha256": "33db2d7d5cf21ec03855c6d6b324aaebaf54d457e0951ddcedd43fb82cb61def"
+    },
+    {
+      "path": "logos/png/panim-vertical-navy-v1.0.0-280w.png",
+      "bytes": 10417,
+      "sha256": "ab34d2bb14f6489ca0299d59eeb2acbf40d803f1c05f2e76494e7847b0d6569b"
+    },
+    {
+      "path": "logos/png/panim-vertical-standard-v1.0.0-112w.png",
+      "bytes": 4177,
+      "sha256": "f968ac7fe48c99817c57b1a0434330bfba9ce1fb5991622aea1c6c4a8bc12a81"
+    },
+    {
+      "path": "logos/png/panim-vertical-standard-v1.0.0-140w.png",
+      "bytes": 5177,
+      "sha256": "2545f985343cd78eb5f6679da45f7ac9502b2cba10e756e4b21e4020f18b433e"
+    },
+    {
+      "path": "logos/png/panim-vertical-standard-v1.0.0-224w.png",
+      "bytes": 8687,
+      "sha256": "69a42d10ce76a42b4d66017a9dcf3d2cd7aab5aceaf4876a400dd60abea42c9e"
+    },
+    {
+      "path": "logos/png/panim-vertical-standard-v1.0.0-280w.png",
+      "bytes": 11185,
+      "sha256": "49c0e8e47087c313df4aed3460e4f2e49afc4f7ce3f1520e8a3ecfb5b668aba6"
+    },
+    {
+      "path": "logos/png/panim-vertical-white-v1.0.0-112w.png",
+      "bytes": 2986,
+      "sha256": "fec169d50c791daf83343e1747469db219afe359ff1686d15c8904f0920d40b4"
+    },
+    {
+      "path": "logos/png/panim-vertical-white-v1.0.0-140w.png",
+      "bytes": 3748,
+      "sha256": "5a08cba86f9d9fb6d39fe8336fff02c01d326d49ff450ab95611248451f6d7e6"
+    },
+    {
+      "path": "logos/png/panim-vertical-white-v1.0.0-224w.png",
+      "bytes": 6372,
+      "sha256": "957736401bede6a40cfd260abb597fec77e587fbc8dd01e9f5bd2ec1d1cde4fc"
+    },
+    {
+      "path": "logos/png/panim-vertical-white-v1.0.0-280w.png",
+      "bytes": 8284,
+      "sha256": "9f1863b2f768b34bf281faf43bc938c7eb85565812afe46446f8efffb8555e11"
+    },
+    {
+      "path": "logos/svg/panim-horizontal-navy-v1.0.0.svg",
+      "bytes": 3372,
+      "sha256": "0a166cdccf30066ad45e8910c2fc230d3f7529112e21837b394da16522691a51"
+    },
+    {
+      "path": "logos/svg/panim-horizontal-standard-v1.0.0.svg",
+      "bytes": 3372,
+      "sha256": "942e1dbb4c765dd54d39026ae979ea374b0edf757017488d2425ce6e94bd4ae2"
+    },
+    {
+      "path": "logos/svg/panim-horizontal-white-v1.0.0.svg",
+      "bytes": 3372,
+      "sha256": "7c85f753335234b18113804d0d29011404f165b0f79170dcb6a02d4419e12a3a"
+    },
+    {
+      "path": "logos/svg/panim-vertical-navy-v1.0.0.svg",
+      "bytes": 3282,
+      "sha256": "ed3a16a877d274f2d9d65fa524dd237340356583354e33e1889154862d1d6e63"
+    },
+    {
+      "path": "logos/svg/panim-vertical-standard-v1.0.0.svg",
+      "bytes": 3282,
+      "sha256": "cd6c02765502b4a64ec3a7ae967204e093d4adb80ebff80e678bf74d5a06dfd7"
+    },
+    {
+      "path": "logos/svg/panim-vertical-white-v1.0.0.svg",
+      "bytes": 3282,
+      "sha256": "f7f733a7119ba1a2e879708ea2cf569f9f6baf12e97ace439e0f5b38e2081e25"
+    },
+    {
+      "path": "platforms/PLATFORM-SOURCES.json",
+      "bytes": 3299,
+      "sha256": "482b3b4ea1c9ad5b842c2af10133cd8cedd7b6d9a49eecbd16be88372355ab22"
+    },
+    {
+      "path": "platforms/android/application.fragment.xml",
+      "bytes": 216,
+      "sha256": "e57c344b86527aaa4f956b778241cb4fe76ec262e21921196018f1eee94bafbb"
+    },
+    {
+      "path": "platforms/android/res/drawable/panim_icon_foreground.xml",
+      "bytes": 1832,
+      "sha256": "56056b634b4a5d54fd5a7dd08788ee1cc585a1ee31567217e066bd790f6d0ec8"
+    },
+    {
+      "path": "platforms/android/res/drawable/panim_icon_monochrome.xml",
+      "bytes": 1832,
+      "sha256": "c6270530a053b1b02adf29203fc1c1ca3e00f3dfe1286c6731715dcccb187c2c"
+    },
+    {
+      "path": "platforms/android/res/mipmap-anydpi-v26/panim_launcher.xml",
+      "bytes": 262,
+      "sha256": "e98e66295c307c8863d4b81e85abb19f5e418fa49d098f3a5491dc47d611ac68"
+    },
+    {
+      "path": "platforms/android/res/mipmap-anydpi-v33/panim_launcher.xml",
+      "bytes": 329,
+      "sha256": "4c8aa88b60d6870aad504054863919b38e1c7561bba17f00a0fbf70a27ce80ae"
+    },
+    {
+      "path": "platforms/android/res/values/panim_icon_colors.xml",
+      "bytes": 114,
+      "sha256": "fa574bdc348f6adb1f1d9835f652a8537a9b1b3b89d834429a3b8acd13787380"
+    },
+    {
+      "path": "platforms/android/store/panim-google-play-512.png",
+      "bytes": 11475,
+      "sha256": "66a919c7c2dfa4930bda160c8be96e805e20df05490a5490d5e6da94dcd6c3a2"
+    },
+    {
+      "path": "platforms/ios/PanimIcons.xcassets/AppIcon.appiconset/Contents.json",
+      "bytes": 712,
+      "sha256": "b331e9ac8cf8e515bd6da84062a1a17a89eb72e2c9813ce965494da3fc737acb"
+    },
+    {
+      "path": "platforms/ios/PanimIcons.xcassets/AppIcon.appiconset/panim-any-1024.png",
+      "bytes": 22980,
+      "sha256": "f909de22ea866544b5ae12a83007003d4aa8ab77f477607582f85d5cb5933e3e"
+    },
+    {
+      "path": "platforms/ios/PanimIcons.xcassets/AppIcon.appiconset/panim-dark-1024.png",
+      "bytes": 18650,
+      "sha256": "0e9e5666af48f40c64bf0d40fbda707c8fbe7c1e14421032fa09557b2afd81d6"
+    },
+    {
+      "path": "platforms/ios/PanimIcons.xcassets/AppIcon.appiconset/panim-tinted-1024.png",
+      "bytes": 11331,
+      "sha256": "917b3130111f10ef5d3668c3e50aaeef0d1e387207d6fa25316d5945dfcc210f"
+    },
+    {
+      "path": "platforms/ios/PanimIcons.xcassets/Contents.json",
+      "bytes": 60,
+      "sha256": "f5fb0e1f3a8142892ed092efb5955c1c2cc537003a89ad7bbdb9dade7fe8985f"
+    },
+    {
+      "path": "platforms/proofs/android.png",
+      "bytes": 86288,
+      "sha256": "4f626b57b304f315b2f051e564c2675b602692e8162d961cd50e5d320dccf102"
+    },
+    {
+      "path": "platforms/proofs/ios.png",
+      "bytes": 86683,
+      "sha256": "97875c05fa087878c43180d604f0637790e44aec5f20858a1fdf031dda7af353"
+    },
+    {
+      "path": "platforms/proofs/sizes.png",
+      "bytes": 38145,
+      "sha256": "5dc9ef889de66acdf20831448f68e96c1a8b5e3f424b61b7d11d478ec83ee9c0"
+    },
+    {
+      "path": "platforms/proofs/web.png",
+      "bytes": 86018,
+      "sha256": "9348882da37d442b5560b2d8531c09f19f7dab72418a39e325958ed303b6444b"
+    },
+    {
+      "path": "platforms/source/android-background.svg",
+      "bytes": 141,
+      "sha256": "2f02a6050474abd88f57f328216238888620fcf569cf1582579488e2b584d9fa"
+    },
+    {
+      "path": "platforms/source/android-foreground.svg",
+      "bytes": 1435,
+      "sha256": "00a2b402fc4a1a8ae44bbf0c8a2df4b18795d5b583ebfdc6fb2e839462bf64da"
+    },
+    {
+      "path": "platforms/source/android-monochrome.svg",
+      "bytes": 1435,
+      "sha256": "eef66f019f9683991076bf93203b167bff94f5c1ca1d13423b055a027075dc10"
+    },
+    {
+      "path": "platforms/source/android-store.svg",
+      "bytes": 1489,
+      "sha256": "f9a8bd2dd1fcb5d26bdcced034dafacb79a14bc4661f249867d38c8d487781d2"
+    },
+    {
+      "path": "platforms/source/ios-dark.svg",
+      "bytes": 1439,
+      "sha256": "a15cb46f2d6c6a3fa2c11aa476bbf4f6273134db773632af6b5e830eadbd16f4"
+    },
+    {
+      "path": "platforms/source/ios-default.svg",
+      "bytes": 1489,
+      "sha256": "f9a8bd2dd1fcb5d26bdcced034dafacb79a14bc4661f249867d38c8d487781d2"
+    },
+    {
+      "path": "platforms/source/ios-tinted-input.svg",
+      "bytes": 1489,
+      "sha256": "902b3343a5eaa515179f7462dd18d228ed8e97389f8346e465d65a4ed32d4804"
+    },
+    {
+      "path": "platforms/source/pwa.svg",
+      "bytes": 1491,
+      "sha256": "85342e055f4c52283f0fc4d307180c80037f2e1b9724566b34603029b511b969"
+    },
+    {
+      "path": "platforms/source/web-favicon.svg",
+      "bytes": 1491,
+      "sha256": "fb403cfe36268e185af82ed5615f3c8ccf2e264f0957b934a2cfad262381acbe"
+    },
+    {
+      "path": "platforms/validation/AndroidManifest.validation-only.xml",
+      "bytes": 281,
+      "sha256": "5468ab841b4260bb5823ff7e1d5ef33b6ff14278ebf4400be2389717aaff92eb"
+    },
+    {
+      "path": "platforms/validation/REPRODUCE.md",
+      "bytes": 1729,
+      "sha256": "b1e4d010be2222d1e73b4c9095aa7d925279d55fd2d0e33b6afdc141f8de6e45"
+    },
+    {
+      "path": "platforms/validation/ios-PartialInfo.plist",
+      "bytes": 713,
+      "sha256": "b974a0c3f00694693d4ddb401741c237e3d93399e0ec4092524a998bfab95c2a"
+    },
+    {
+      "path": "platforms/validation/ios-actool.log",
+      "bytes": 856,
+      "sha256": "19b563a004a554a7781139668eab46cca69397da3c3da6b92b1896239a4933cb"
+    },
+    {
+      "path": "platforms/validation/native-checks.json",
+      "bytes": 2158,
+      "sha256": "9b3ec28d40289a7244a3a5094ef8c8f0b3e31b254b798ab80d9d907b30f6bc29"
+    },
+    {
+      "path": "platforms/web/head.fragment.html",
+      "bytes": 480,
+      "sha256": "1ea130c7f0735b34e32a91967785f9c2afa6e72acfd7da8e1591b802d63dcaf0"
+    },
+    {
+      "path": "platforms/web/icons/apple-touch-icon-180.png",
+      "bytes": 3542,
+      "sha256": "f813d1427f93986dabe7c780a8411988a299fd800d2b450667793b4754aa7262"
+    },
+    {
+      "path": "platforms/web/icons/favicon-16.png",
+      "bytes": 762,
+      "sha256": "82a937568435e5eeac3dae6517e3ed3dd3f58d563301e887f3a1d869677bfe18"
+    },
+    {
+      "path": "platforms/web/icons/favicon-32.png",
+      "bytes": 1118,
+      "sha256": "bee68a5802eaa04759e675ff9a4ac74229dc54677547d527dd574da6c8952ce5"
+    },
+    {
+      "path": "platforms/web/icons/favicon-48.png",
+      "bytes": 1489,
+      "sha256": "876db0eacb63828e9a5c5a2fbaf4f161e23c19bdbcbd6500032c22cba5a69413"
+    },
+    {
+      "path": "platforms/web/icons/favicon.ico",
+      "bytes": 2659,
+      "sha256": "7c267d6d57d77c0f9b965d8cb647e3df99f0be0c25aa1b2e709c8a3512751070"
+    },
+    {
+      "path": "platforms/web/icons/favicon.svg",
+      "bytes": 1491,
+      "sha256": "fb403cfe36268e185af82ed5615f3c8ccf2e264f0957b934a2cfad262381acbe"
+    },
+    {
+      "path": "platforms/web/icons/panim-any-192.png",
+      "bytes": 3589,
+      "sha256": "3c92dc701b04caf1a7fa1ee484c7ccd09d18949b1dac459cc17d50f3c068ee0d"
+    },
+    {
+      "path": "platforms/web/icons/panim-any-512.png",
+      "bytes": 10059,
+      "sha256": "0a0f056a36e3a2fab4d1450fbf310185b16fbccb6ce01da8af7f68a13fef029b"
+    },
+    {
+      "path": "platforms/web/icons/panim-maskable-192.png",
+      "bytes": 3589,
+      "sha256": "3c92dc701b04caf1a7fa1ee484c7ccd09d18949b1dac459cc17d50f3c068ee0d"
+    },
+    {
+      "path": "platforms/web/icons/panim-maskable-512.png",
+      "bytes": 10059,
+      "sha256": "0a0f056a36e3a2fab4d1450fbf310185b16fbccb6ce01da8af7f68a13fef029b"
+    },
+    {
+      "path": "platforms/web/manifest-icons.fragment.json",
+      "bytes": 564,
+      "sha256": "7870b75d06f17cf6cd1b7c2affcc72917c85a2d313b63ca0b76bb81be49928c2"
+    },
+    {
+      "path": "standards/COLOR.md",
+      "bytes": 754,
+      "sha256": "8c11fa2937e39d501c4333f403b459e5b4a964cbf266e852ff9e93e91f764dcc"
+    },
+    {
+      "path": "standards/IDENTITY.md",
+      "bytes": 1768,
+      "sha256": "489e5f443298868b3c7c4b68c4afab4b161df8dc0398756a8717055f1ab2c73a"
+    },
+    {
+      "path": "standards/LOGO-USAGE.md",
+      "bytes": 6136,
+      "sha256": "df20f5a0d912b6cb78508d4daacfb224a1b711ecab316fe07e21cef1300963f0"
+    },
+    {
+      "path": "standards/PLATFORM-USAGE.md",
+      "bytes": 4370,
+      "sha256": "afb98775a9504eae914831978b57267ceb36bed2f99c383fcbc10e94fa624c75"
+    },
+    {
+      "path": "standards/TYPOGRAPHY.md",
+      "bytes": 3851,
+      "sha256": "0d41d719cff12bde6ff2a245e57ed86b679f15ebc5a7acb082b77279e7669eac"
+    },
+    {
+      "path": "standards/UI-ACCESSIBILITY.md",
+      "bytes": 7283,
+      "sha256": "ebc72dc6c621b4e746414d299edeeb8116e2bec34c1ba1c719d4080a31e691a7"
+    },
+    {
+      "path": "standards/examples/ACTUAL-SIZE.png",
+      "bytes": 120080,
+      "sha256": "b32e424db43360805e0cd84a8fa694901917644c08bafd0765dd31883a705e27"
+    },
+    {
+      "path": "standards/examples/FINAL-TREATMENTS.png",
+      "bytes": 43366,
+      "sha256": "4cfcde7b5f06078c486111690eb36172164dd93dcea0ae4f30c09c81273fb5d1"
+    },
+    {
+      "path": "standards/examples/INTERFACE-EXAMPLES.png",
+      "bytes": 122910,
+      "sha256": "ea4701492bc10dae80acfd827e1a29de930f9ad4fcbb531c8a56466389423046"
+    },
+    {
+      "path": "standards/examples/TYPOGRAPHY.png",
+      "bytes": 71246,
+      "sha256": "25f1fa59034bbbf5ca20a29e4c56462972d95e2af7c9b305403acbf9871ee736"
+    },
+    {
+      "path": "standards/examples/messaging.png",
+      "bytes": 73680,
+      "sha256": "dc673d986d8cf08e2c2ded4009cc945f34736535255b8b7c22cecddb700892df"
+    },
+    {
+      "path": "standards/examples/space.png",
+      "bytes": 73270,
+      "sha256": "be4862c184c83d8cb8c1fc2707e4732a7729a8290ca0e950e173806bd04fd640"
+    },
+    {
+      "path": "standards/examples/usage.png",
+      "bytes": 95718,
+      "sha256": "aa636fa3baa8cbd1bb3d132df893afd451f49d8b0e84e819c4ee712cb8636958"
+    },
+    {
+      "path": "tokens/contrast-matrix.csv",
+      "bytes": 12126,
+      "sha256": "ed8cb862c447e8bf37de3a0ddb009a91f950a55475698e8452f024fbf05394d6"
+    },
+    {
+      "path": "tokens/fonts/Atkinson.METADATA.pb",
+      "bytes": 1639,
+      "sha256": "9d0050e8a74b976099f69ba23a25063b60deeb91eae89388bb20dffb5b4a5669"
+    },
+    {
+      "path": "tokens/fonts/Atkinson.OFL.txt",
+      "bytes": 4431,
+      "sha256": "aca6a428580965d2297d1b718042dd427c2a9443ece3b0d02d758e161e0c4030"
+    },
+    {
+      "path": "tokens/fonts/Atkinson.ttf",
+      "bytes": 114552,
+      "sha256": "5a455d1cfa099b601ab70751bb9673e8fe1854dc4500c80e1a220d0d75e31745"
+    },
+    {
+      "path": "tokens/fonts/SOURCES.json",
+      "bytes": 1180,
+      "sha256": "459ea6a048cf7d3c29e6cc688b56949f3696dc694c3e5a1d852336de0fed2647"
+    },
+    {
+      "path": "tokens/fonts/atkinson-latin-ext.woff2",
+      "bytes": 19076,
+      "sha256": "ca1969afa9058a41ced4a08bd54f48835cfe79dc6ccf9050dca7da85c9e0a9d9"
+    },
+    {
+      "path": "tokens/fonts/atkinson-latin.woff2",
+      "bytes": 34024,
+      "sha256": "1e4cea71d75ec427581d6259fc07148a2e60d60d16cabf4b4f5360487b3f9dc3"
+    },
+    {
+      "path": "tokens/fonts/upstream.css",
+      "bytes": 1938,
+      "sha256": "f02feee610cb6fab0268d4b3d50c25a0a76e2d9fe3ecce4272ee4c22663e51f3"
+    },
+    {
+      "path": "tokens/fonts.css",
+      "bytes": 1646,
+      "sha256": "e3aacb98c24c9b9fd7c772d2d98dc075694e571166d092163a68a011de33cd96"
+    },
+    {
+      "path": "tokens/panim.css",
+      "bytes": 2566,
+      "sha256": "3ce34a3504660f081c20fa67732d6c893d1f04e1e8d70033f83b8d71015f6c8c"
+    },
+    {
+      "path": "tokens/panim.tokens.json",
+      "bytes": 2742,
+      "sha256": "ddbbe7ab16902c8f21956337306400934ca18d49250e14932ec5a76420ddf831"
+    },
+    {
+      "path": "tools/verify-package.py",
+      "bytes": 696,
+      "sha256": "494a1e05302c8fa808dd8d48c5bfe6a5c3434a724d351649a17df41d60e6b6af"
+    }
+  ]
+}

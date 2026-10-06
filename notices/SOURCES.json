@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "stylesheet_url": "https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@400;600&display=swap",
+  "woff2": [
+    {
+      "path": "fonts/atkinson-latin-ext.woff2",
+      "url": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPNcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiHn3q0pkZ_S2Q.woff2",
+      "bytes": 19076,
+      "sha256": "ca1969afa9058a41ced4a08bd54f48835cfe79dc6ccf9050dca7da85c9e0a9d9"
+    },
+    {
+      "path": "fonts/atkinson-latin.woff2",
+      "url": "https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaPNcYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGseiJn3q0pkZ_.woff2",
+      "bytes": 34024,
+      "sha256": "1e4cea71d75ec427581d6259fc07148a2e60d60d16cabf4b4f5360487b3f9dc3"
+    }
+  ],
+  "source_ttf": {
+    "file": "Atkinson.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/atkinsonhyperlegiblenext/AtkinsonHyperlegibleNext%5Bwght%5D.ttf",
+    "bytes": 114552,
+    "sha256": "5a455d1cfa099b601ab70751bb9673e8fe1854dc4500c80e1a220d0d75e31745"
+  },
+  "note": "Unmodified upstream web subsets. No runtime third-party requests. TTF retained for provenance/reference; CSS loads only WOFF2."
+}

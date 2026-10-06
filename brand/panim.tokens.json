@@ -1,0 +1,116 @@
+{
+  "version": "1.0.0",
+  "status": "ADOPTED_VALUES_FINAL_FILES_AWAITING_APPROVAL",
+  "brand": {
+    "blue": "#0150CF",
+    "light-blue": "#3792FD",
+    "navy": "#031744"
+  },
+  "brandApproval": "WS3 APPROVAL-TREATMENTS-v0.1.0.json; UI assignments adopted by WS4 DECISION-v0.1.0.json",
+  "fontDecision": "Atkinson Hyperlegible Next",
+  "typography": {
+    "display": {
+      "size": "2.5rem",
+      "weight": 600,
+      "lineHeight": 1.2
+    },
+    "h1": {
+      "size": "2rem",
+      "weight": 600,
+      "lineHeight": 1.25
+    },
+    "h2": {
+      "size": "1.5rem",
+      "weight": 600,
+      "lineHeight": 1.3
+    },
+    "h3": {
+      "size": "1.25rem",
+      "weight": 600,
+      "lineHeight": 1.4
+    },
+    "body": {
+      "size": "1.125rem",
+      "weight": 400,
+      "lineHeight": 1.5
+    },
+    "ui": {
+      "size": "1.125rem",
+      "weight": 600,
+      "lineHeight": 1.4
+    },
+    "supporting": {
+      "size": "1rem",
+      "weight": 400,
+      "lineHeight": 1.5
+    }
+  },
+  "letterSpacing": "0em",
+  "modes": {
+    "light": {
+      "canvas": "#F5F7FB",
+      "surface": "#FFFFFF",
+      "text": "#031744",
+      "muted": "#45536B",
+      "border": "#68788F",
+      "link": "#0150CF",
+      "link-hover": "#0043AD",
+      "link-pressed": "#003587",
+      "control": "#0150CF",
+      "control-hover": "#0043AD",
+      "control-pressed": "#003587",
+      "on-control": "#FFFFFF",
+      "selected": "#EAF2FF",
+      "selected-text": "#031744",
+      "selected-border": "#0150CF",
+      "focus": "#0150CF",
+      "error": "#B4233B",
+      "disabled": "#E4E9F0",
+      "disabled-text": "#45536B"
+    },
+    "dark": {
+      "canvas": "#031744",
+      "surface": "#102B55",
+      "text": "#FFFFFF",
+      "muted": "#C2CDDD",
+      "border": "#91A4BF",
+      "link": "#A3CEFF",
+      "link-hover": "#C8E1FF",
+      "link-pressed": "#FFFFFF",
+      "control": "#3792FD",
+      "control-hover": "#70B2FF",
+      "control-pressed": "#A3CEFF",
+      "on-control": "#031744",
+      "selected": "#183B69",
+      "selected-text": "#FFFFFF",
+      "selected-border": "#A3CEFF",
+      "focus": "#A3CEFF",
+      "error": "#FFB3C1",
+      "disabled": "#243B5A",
+      "disabled-text": "#C2CDDD"
+    }
+  },
+  "semantics": {
+    "success": "text + explicit Saved label",
+    "information": "text + explicit Information label",
+    "warning": "text + explicit Attention label",
+    "error": "error + explicit Error label"
+  },
+  "focus": {
+    "width": "3px",
+    "offset": "3px"
+  },
+  "target": {
+    "minimum": "48px",
+    "primary": "56px",
+    "gap": "8px"
+  },
+  "fontFamily": [
+    "Atkinson Hyperlegible Next",
+    "system-ui",
+    "-apple-system",
+    "Segoe UI",
+    "sans-serif"
+  ],
+  "decisionEvidence": "../../DECISION-v0.1.0.json"
+}

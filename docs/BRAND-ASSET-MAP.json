@@ -1,0 +1,99 @@
+{
+  "brand_release": "1.0.1",
+  "manifest_sha256": "618d01ba5440289630caef6303b5d11cced2565ce6b61e144f37f26b68b2970d",
+  "all_identical": true,
+  "files": [
+    {
+      "source": "Panim-Brand/releases/v1.0.1/platforms/ios/PanimIcons.xcassets/Contents.json",
+      "source_sha256_per_manifest": "f5fb0e1f3a8142892ed092efb5955c1c2cc537003a89ad7bbdb9dade7fe8985f",
+      "destination": "Panim/PanimIcons.xcassets/Contents.json",
+      "destination_sha256": "f5fb0e1f3a8142892ed092efb5955c1c2cc537003a89ad7bbdb9dade7fe8985f",
+      "identical": true
+    },
+    {
+      "source": "Panim-Brand/releases/v1.0.1/platforms/ios/PanimIcons.xcassets/AppIcon.appiconset/Contents.json",
+      "source_sha256_per_manifest": "b331e9ac8cf8e515bd6da84062a1a17a89eb72e2c9813ce965494da3fc737acb",
+      "destination": "Panim/PanimIcons.xcassets/AppIcon.appiconset/Contents.json",
+      "destination_sha256": "b331e9ac8cf8e515bd6da84062a1a17a89eb72e2c9813ce965494da3fc737acb",
+      "identical": true
+    },
+    {
+      "source": "Panim-Brand/releases/v1.0.1/platforms/ios/PanimIcons.xcassets/AppIcon.appiconset/panim-any-1024.png",
+      "source_sha256_per_manifest": "f909de22ea866544b5ae12a83007003d4aa8ab77f477607582f85d5cb5933e3e",
+      "destination": "Panim/PanimIcons.xcassets/AppIcon.appiconset/panim-any-1024.png",
+      "destination_sha256": "f909de22ea866544b5ae12a83007003d4aa8ab77f477607582f85d5cb5933e3e",
+      "identical": true
+    },
+    {
+      "source": "Panim-Brand/releases/v1.0.1/platforms/ios/PanimIcons.xcassets/AppIcon.appiconset/panim-dark-1024.png",
+      "source_sha256_per_manifest": "0e9e5666af48f40c64bf0d40fbda707c8fbe7c1e14421032fa09557b2afd81d6",
+      "destination": "Panim/PanimIcons.xcassets/AppIcon.appiconset/panim-dark-1024.png",
+      "destination_sha256": "0e9e5666af48f40c64bf0d40fbda707c8fbe7c1e14421032fa09557b2afd81d6",
+      "identical": true
+    },
+    {
+      "source": "Panim-Brand/releases/v1.0.1/platforms/ios/PanimIcons.xcassets/AppIcon.appiconset/panim-tinted-1024.png",
+      "source_sha256_per_manifest": "917b3130111f10ef5d3668c3e50aaeef0d1e387207d6fa25316d5945dfcc210f",
+      "destination": "Panim/PanimIcons.xcassets/AppIcon.appiconset/panim-tinted-1024.png",
+      "destination_sha256": "917b3130111f10ef5d3668c3e50aaeef0d1e387207d6fa25316d5945dfcc210f",
+      "identical": true
+    },
+    {
+      "source": "Panim-Brand/releases/v1.0.1/tokens/fonts/Atkinson.ttf",
+      "source_sha256_per_manifest": "5a455d1cfa099b601ab70751bb9673e8fe1854dc4500c80e1a220d0d75e31745",
+      "destination": "Panim/Resources/Fonts/Atkinson.ttf",
+      "destination_sha256": "5a455d1cfa099b601ab70751bb9673e8fe1854dc4500c80e1a220d0d75e31745",
+      "identical": true
+    },
+    {
+      "source": "Panim-Brand/releases/v1.0.1/tokens/fonts/Atkinson.OFL.txt",
+      "source_sha256_per_manifest": "aca6a428580965d2297d1b718042dd427c2a9443ece3b0d02d758e161e0c4030",
+      "destination": "Panim/Resources/Fonts/Atkinson.OFL.txt",
+      "destination_sha256": "aca6a428580965d2297d1b718042dd427c2a9443ece3b0d02d758e161e0c4030",
+      "identical": true
+    },
+    {
+      "source": "Panim-Brand/releases/v1.0.1/tokens/fonts/Atkinson.METADATA.pb",
+      "source_sha256_per_manifest": "9d0050e8a74b976099f69ba23a25063b60deeb91eae89388bb20dffb5b4a5669",
+      "destination": "notices/Atkinson.METADATA.pb",
+      "destination_sha256": "9d0050e8a74b976099f69ba23a25063b60deeb91eae89388bb20dffb5b4a5669",
+      "identical": true
+    },
+    {
+      "source": "Panim-Brand/releases/v1.0.1/tokens/fonts/SOURCES.json",
+      "source_sha256_per_manifest": "459ea6a048cf7d3c29e6cc688b56949f3696dc694c3e5a1d852336de0fed2647",
+      "destination": "notices/SOURCES.json",
+      "destination_sha256": "459ea6a048cf7d3c29e6cc688b56949f3696dc694c3e5a1d852336de0fed2647",
+      "identical": true
+    },
+    {
+      "source": "Panim-Brand/releases/v1.0.1/ASSET-LICENSE.md",
+      "source_sha256_per_manifest": "fc94c62066a32244146e76f5dad2685beb8508675f6374a88d250d68258c79e3",
+      "destination": "notices/ASSET-LICENSE.md",
+      "destination_sha256": "fc94c62066a32244146e76f5dad2685beb8508675f6374a88d250d68258c79e3",
+      "identical": true
+    },
+    {
+      "source": "Panim-Brand/releases/v1.0.1/THIRD-PARTY-NOTICES.md",
+      "source_sha256_per_manifest": "ec13e93aef32d0ab46a5da6db992a92c011be68953f406b0b17f871b32bfa0de",
+      "destination": "notices/THIRD-PARTY-NOTICES.md",
+      "destination_sha256": "ec13e93aef32d0ab46a5da6db992a92c011be68953f406b0b17f871b32bfa0de",
+      "identical": true
+    },
+    {
+      "source": "Panim-Brand/releases/v1.0.1/tokens/panim.tokens.json",
+      "source_sha256_per_manifest": "ddbbe7ab16902c8f21956337306400934ca18d49250e14932ec5a76420ddf831",
+      "destination": "brand/panim.tokens.json",
+      "destination_sha256": "ddbbe7ab16902c8f21956337306400934ca18d49250e14932ec5a76420ddf831",
+      "identical": true
+    },
+    {
+      "source": "Panim-Brand/releases/v1.0.1/MANIFEST.json",
+      "source_sha256_per_manifest": "618d01ba5440289630caef6303b5d11cced2565ce6b61e144f37f26b68b2970d",
+      "destination": "brand/BRAND-v1.0.1-MANIFEST.json",
+      "destination_sha256": "618d01ba5440289630caef6303b5d11cced2565ce6b61e144f37f26b68b2970d",
+      "identical": true
+    }
+  ],
+  "note": "Bytes copied unchanged. Wordmark not used in the app yet. Tokens are copied for reference; translation to native resources happens in M3."
+}
